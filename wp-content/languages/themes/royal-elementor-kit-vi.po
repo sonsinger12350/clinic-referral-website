@@ -1,0 +1,148 @@
+# Translation of Themes - Royal Elementor Kit in Vietnamese
+# This file is distributed under the same license as the Themes - Royal Elementor Kit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-04 20:32:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Royal Elementor Kit\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Truly all in one Solution For Elementor Lovers. 30+ Elementor Templates KIT, 50+ Professional Elementor Widgets, Elementor theme builder, Elementor Popup Builder, Elementor Premade blocks and many other cool features like Sticky Header, Particle effects, parallax backgrounds and many other elementor addons. Simple Install the theme, click on - Get Started with Templates Kit button and that's it. Very easy to use even for WordPress beginners or professionals. All In one Elementor Solution which outranks all other Elementor themes and Elementor addons. ########### TEMPLATES INCLUDED: Elementor Blog Template, Elementor Magazine Blog Template, Elementor Food Blog Template, Elementor Travel Blog Template, Elementor Portfolio Template, Elementor NFT Template, Elementor Pizza Restaurant Template, Elementor Travel Blogger & Influencer Template, Elementor Cybersecurity Template, Elementor Photographer Portfolio Template, Elementor Crypto Currency Template, Elementor Skin Care Template, Elementor Lawyer Template, Elementor Medical Template, Elementor Digital Agency Template, Elementor Drone Template, Elementro Architecture Template, Elementor Food Delivery Template, Elementor Construction Template, Elementor IT Technology Template, Elementor Real Estate Template, Elementor Restaurant Template, Elementor Wine Bar & Restaurant Template, Elementor Wedding Template & other beautiful elementor business templates. All these templates are created with elementor page builder. Theme Demo Page: https://royal-elementor-addons.com/royal-elementor-kit/"
+msgstr "Thực sự tất cả trong một giải pháp cho những người yêu thích Elementor. 30+ Elementor Templates KIT, 50+ Professional Elementor Widgets, Elementor theme builder, Elementor Popup Builder, Elementor Premade blocks và nhiều tính năng thú vị khác như Sticky Header, Particle effects, parallax backgrounds và nhiều addon elementor khác. Đơn giản Cài đặt chủ đề, nhấp vào - Bắt đầu với nút Templates Kit và đó là nó. Rất dễ sử dụng ngay cả đối với người mới bắt đầu hoặc chuyên gia WordPress. All In one Elementor Solution vượt trội hơn tất cả các chủ đề Elementor khác và addon Elementor. ########## TEMPLATES BAO GỒM: Mẫu blog Elementor, Mẫu blog tạp chí Elementor, Mẫu blog thực phẩm Elementor, Mẫu blog du lịch Elementor, Mẫu danh mục đầu tư Elementor, Mẫu Elementor NFT, Mẫu nhà hàng Elementor Pizza, Mẫu Blogger & Người ảnh hưởng Elementor, Mẫu bảo mật mạng Elementor, Mẫu danh mục nhiếp ảnh gia Elementor, Elementor Crypto Mẫu tiền tệ, Mẫu chăm sóc da Elementor, Mẫu luật sư Elementor, Mẫu y tế Elementor, Mẫu cơ quan kỹ thuật số Elementor, Mẫu máy bay không người lái Elementor, Mẫu kiến trúc Elementro, Mẫu giao thức ăn Elementor, Mẫu xây dựng Elementor, Mẫu công nghệ CNTT Elementor, Mẫu bất động sản Elementor, Nhà hàng Elementor mẫu, mẫu Elementor Wine Bar & Restaurant mẫu, Elementor Wedding mẫu & các mẫu kinh doanh elementor đẹp khác. Tất cả các mẫu này được tạo bằng trình tạo trang phần tử. Trang Demo Chủ đề: https://royal-elementor-addons.com/royal-elementor-kit/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Royal Elementor Kit"
+msgstr "Royal Elementor Kit"
+
+#: inc/activation/class-welcome-notice.php:410
+msgid "Something went wrong, contact support."
+msgstr "Có điều gì đó không ổn, liên hệ với bộ phận hỗ trợ."
+
+#: inc/activation/class-welcome-notice.php:342
+msgid "Get Started with Templates Kit %s"
+msgstr "Bắt đầu với Bộ công cụ mẫu%s"
+
+#: inc/activation/class-welcome-notice.php:334
+msgid "Royal Elementor Kit comes with %s with various designs to pick from."
+msgstr "Royal Elementor Kit đi kèm với %s với nhiều thiết kế khác nhau để lựa chọn."
+
+#: inc/activation/class-welcome-notice.php:332
+msgid "Welcome to Royal Elementor Kit"
+msgstr "Chào mừng bạn đến với Royal Elementor Kit"
+
+#: inc/activation/class-welcome-notice.php:236
+#: inc/activation/class-welcome-notice.php:271
+msgid "Failed to initialize or activate importer plugin."
+msgstr "Thất bại trong việc khởi tạo hoặc kích hoạt plugin importer."
+
+#: inc/activation/class-welcome-notice.php:204
+#: inc/activation/class-welcome-notice.php:248
+msgid "Insufficient permissions to install the plugin."
+msgstr "Không đủ quyền để cài đặt plugin."
+
+#: single.php:65
+msgid "By"
+msgstr "Bởi"
+
+#: page.php:32 single.php:43
+msgid "Pages:"
+msgstr "Trang:"
+
+#: index.php:63
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác nhau."
+
+#: index.php:62
+msgid "Nothing Found!"
+msgstr "Không tìm thấy!"
+
+#: index.php:41 single.php:28
+msgid "Comments"
+msgstr "Bình luận"
+
+#: index.php:41 single.php:28
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: header.php:39
+msgid "Home"
+msgstr "Trang chủ"
+
+#: functions.php:35
+msgid "Main Menu"
+msgstr "Menu chính"
+
+#. translators: %1$s: theme name, %2$s link, %3$s theme author
+#: footer.php:10
+msgid "%1$s Theme by <a href=\"%2$s\">%3$s.</a>"
+msgstr "%1$s Chủ đề theo <a href=\"%2$s\">%3$s.</a>"
+
+#: comments.php:44
+msgid "Post Comment"
+msgstr "Đăng bình luận"
+
+#: comments.php:43
+msgid "Comment"
+msgstr "Bình luận"
+
+#: comments.php:42
+msgid "Leave a Reply"
+msgstr "Trả lời"
+
+#: comments.php:30
+msgid "Newer Comments"
+msgstr "Bình luận mới hơn"
+
+#: comments.php:26
+msgid "Older Comments"
+msgstr "Bình luận cũ hơn"
+
+#: comments.php:12
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: comments.php:12
+msgid "One Comment"
+msgstr "Một bình luận"
+
+#: comments.php:12 index.php:41 single.php:28
+msgid "0 Comments"
+msgstr "0 Bình luận"
+
+#: 404.php:5
+msgid "Page not found!"
+msgstr "Không tìm thấy trang"
+
+#: index.php:46
+msgid "read more"
+msgstr "đọc tiếp"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Chuyển tới nội dung"
+
+#: 404.php:8
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ chúng tôi không thể tìm thấy nội dung bạn đang mong muốn. Có lẽ công cụ tìm kiếm có thể giúp bạn."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://royal-elementor-addons.com/"
+msgstr "https://royal-elementor-addons.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "WP Royal"
+msgstr "WP Royal"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://royal-elementor-addons.com/royal-elementor-kit"
+msgstr "https://royal-elementor-addons.com/royal-elementor-kit"

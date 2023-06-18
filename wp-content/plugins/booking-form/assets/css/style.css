@@ -1,0 +1,181 @@
+.d-none {
+    display: none !important;
+}
+
+.d-block {
+    display: block !important;
+}
+
+.d-flex {
+    display: flex !important;
+}
+
+.justify-content-between {
+    justify-content: space-between !important;
+}
+
+#book-exam-form .form-body .step-body.active {
+    padding: 10px 15px;
+}
+
+#book-exam-form .form-body .process-line {
+    display: flex;
+    gap: 10px;
+}
+
+#book-exam-form .form-body .process-line .process-item {
+    flex: 1 1 auto;
+}
+
+#book-exam-form .form-body .process-line .process-item .process-bar {
+    width: 100%;
+    height: 15px;
+    background-color: #bec3c7;
+}
+
+#book-exam-form .form-body .process-line .process-item p {
+    font-weight: bold;
+}
+
+#book-exam-form .form-body .process-line .process-item:first-child .process-bar {
+    border-radius: 5px 0 0 5px;
+}
+
+#book-exam-form .form-body .process-line .process-item:last-child .process-bar {
+    border-radius: 0 5px 5px 0;
+}
+
+#book-exam-form .form-body .process-line .process-item.active .process-bar {
+    background-color: #69bdda;
+}
+
+#book-exam-form .form-body .process-line .process-item.active p {
+    color: #69bdda;
+}
+
+#book-exam-form .form-body .list-select .label-select {
+    color: #69bdda;
+    margin-bottom: 1rem;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#book-exam-form .form-footer .step-footer.active {
+    border-top: 1px solid silver;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+
+#book-exam-form .form-footer .step-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+#book-exam-form .step-body, #book-exam-form .step-footer {
+    overflow: hidden;
+    height: auto;
+    opacity: 1;
+    transition: height 600ms, opacity 600ms;
+}
+
+#book-exam-form .step-body:not(.active), #book-exam-form .step-footer:not(.active) {
+    height: 0;
+    opacity: 0;
+}
+
+#book-exam-form .form-footer .step-footer.step-1 {
+    display: flex;
+    justify-content: end;
+}
+
+#book-exam-form .flatpickr-monthDropdown-months{
+    display: inline-block;
+}
+
+#book-exam-form .numInputWrapper .arrowUp, #book-exam-form .numInputWrapper .arrowDown {
+    display: none;
+}
+
+#book-exam-form .choose-date {
+    display: flex;
+    justify-content: space-between;
+}
+
+#book-exam-form .choose-date .list-time {
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#book-exam-form .choose-date .list-time .btnPickTime {
+    width: 110px;
+    height: 40px;
+    border-color: #cccccc;
+}
+
+#book-exam-form .choose-date .list-time .btnPickTime span {
+    color: #333;
+}
+
+#book-exam-form .choose-date .list-time .btnPickTime:hover, 
+#book-exam-form .choose-date .list-time .btnPickTime:focus {
+    color: inherit;
+    background-color: inherit;
+}
+
+#book-exam-form .choose-date .list-time .btnPickTime .time-pick {
+    display: flex;
+    align-items: center;
+}
+
+#book-exam-form .choose-date .list-time .btnPickTime .time-pick .icon-time-pick {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    border: 1px solid;
+    border-color: #898989;
+    margin-right: 5px;
+}
+
+#book-exam-form .choose-date .list-time .btnPickTime .time-pick .icon-time-pick .icon-time-pick-active {
+    width: 12px;
+    height: 12px;
+    border-radius: 60%;
+}
+
+#book-exam-form .choose-date .list-time .btnPickTime:hover .time-pick .icon-time-pick .icon-time-pick-active {
+    background-color: #605be5;
+}
+
+#book-exam-form .choose-date .list-time .btnPickTime:hover,
+#book-exam-form .choose-date .list-time .btnPickTime:hover .time-pick .icon-time-pick {
+    border-color: #605be5;
+}
+
+#book-exam-form .step-body.step-3 .list-input .label-input {
+    color: #69bdda;
+    margin-bottom: 1rem;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#book-exam-form .invalid-feedback {
+    display: block;
+    visibility: hidden;
+    min-height: 20px;
+    color: red;
+}
+
+#book-exam-form input.is-invalid,
+#book-exam-form select.is-invalid {
+    border-color: red;
+}
+
+#book-exam-form input.is-invalid~.invalid-feedback,
+#book-exam-form select.is-invalid~.invalid-feedback {
+    visibility: visible;
+}
